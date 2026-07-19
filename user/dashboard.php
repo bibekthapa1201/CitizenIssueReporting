@@ -42,7 +42,7 @@ LIMIT 5
 ");
 ?>
 
-<div class="page-bg">
+<div class="page-bg"  style="background-image: url('assets/images/hero.png');">
 
     <div class="container pt-5 mt-5">
 

@@ -156,7 +156,7 @@ required>
 
         while($dept = mysqli_fetch_assoc($dept_query)){
             echo "
-            <option value='".$dept['department_id']."'>
+            <option value=".$dept['department_id'].">
                 ".$dept['department_name']."
             </option>";
         }
@@ -375,7 +375,7 @@ if(marker){
 
 marker.setMap(null);
 
-}
+}m
 
 
 

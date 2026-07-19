@@ -33,7 +33,7 @@
 
     <div class="container">
 
-        <a class="navbar-brand fw-bold" href="#">
+        <a class="navbar-brand fw-bold" href=" index.php ">
 
             <i class="bi bi-building"></i>
 

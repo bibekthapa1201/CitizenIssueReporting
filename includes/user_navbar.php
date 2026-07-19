@@ -1,5 +1,5 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <div class="container">
+<nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark">
+    <div class="container"  >
 
         <a class="navbar-brand fw-bold" href="dashboard.php">
             <i class="bi bi-building"></i>
@@ -14,7 +14,7 @@
 
         </button>
 
-        <div class="collapse navbar-collapse" id="navbar">
+        <div class="collapse navbar-collapse" id="navbar" style="color:white " >
 
             <ul class="navbar-nav ms-auto">
 
