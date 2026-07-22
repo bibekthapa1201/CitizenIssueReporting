@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark">
+ <nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark">
     <div class="container"  >
 
         <a class="navbar-brand fw-bold" href="dashboard.php">
@@ -51,3 +51,4 @@
     </div>
 
 </nav>
+

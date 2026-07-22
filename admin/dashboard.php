@@ -55,10 +55,10 @@ $sql .= " ORDER BY issues.reported_at DESC";
 
 $result = mysqli_query($conn,$sql);
 ?>
-<div class="container mt-5">
+<div class="container" style="padding-top: 90px;">
 
-    <div class="alert alert-primary shadow-sm">
-        <h2>Admin Dashboard</h2>
+<div class="alert alert-primary shadow-sm mt-10">
+            <h2>Admin Dashboard</h2>
         <p>Welcome, <strong><?php echo $_SESSION['full_name']; ?></strong></p>
     </div>
 
